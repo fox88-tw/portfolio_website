@@ -3,10 +3,36 @@
     <title>FOXs</title>
     <link href="https://fox88-tw.github.io/portfolio_website/feed.xml" rel="self" />
     <link href="https://fox88-tw.github.io/portfolio_website" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2020-12-22T01:49:38+08:00</updated>
     <author>
         <name>FoxChen</name>
     </author>
     <id>https://fox88-tw.github.io/portfolio_website</id>
 
+    <entry>
+        <title>Blog樂_微學習智能輔助閱讀</title>
+        <author>
+            <name>FoxChen</name>
+        </author>
+        <link href="https://fox88-tw.github.io/portfolio_website/blog-le_-wei-xue-xi-zhi-neng-fu-zhu-yue-du.html"/>
+        <id>https://fox88-tw.github.io/portfolio_website/blog-le_-wei-xue-xi-zhi-neng-fu-zhu-yue-du.html</id>
+
+        <updated>2020-12-22T01:49:38+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fox88-tw.github.io/portfolio_website/media/posts/1/Blog-Le_-Wei-Xue-Xi-Zhi-Hui-Yue-Du-Zhu-Li_001.png" alt="" />
+                    Blog樂 _ LineBot使用情境 Demo實際體驗 Blog樂 LineBot 20201211_TibaMe AI技術應用工程師班 發表 ( 24:18~31:15 由我介紹負責開發的「摘要」功能 )
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fox88-tw.github.io/portfolio_website/media/posts/1/Blog-Le_-Wei-Xue-Xi-Zhi-Hui-Yue-Du-Zhu-Li_001.png" alt="" />
+                <figure>Blog樂 _ LineBot使用情境 Demo<video loading="lazy" width="720" height="360" controls="controls" data-mce-fragment="1">
+<source src="https://drive.google.com/file/d/14k8EjH_Rok3icmpyP4VXQSHqj5IDvar6/view?usp=sharing" /></video></figure>
+<figure class="post__image">實際體驗 Blog樂 LineBot<br><img loading="lazy"  src="https://fox88-tw.github.io/portfolio_website/media/posts/1/image-1-6.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xs.png 300w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-sm.png 480w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-md.png 768w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-lg.png 1024w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xl.png 1360w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-2xl.png 1600w"  alt="" width="287" height="287"></figure>
+<p>20201211_TibaMe AI技術應用工程師班 發表 <br>( 24:18~31:15 由我介紹負責開發的「摘要」功能 )<video loading="lazy" width="720" height="360" controls="controls" data-mce-fragment="1">
+<source src="https://drive.google.com/file/d/1dpie9AncXKuBvPauYBKnpw0TYrine16a/view?usp=sharing" /></video></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
