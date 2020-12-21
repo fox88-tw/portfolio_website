@@ -13,8 +13,8 @@
             "id": "https://fox88-tw.github.io/portfolio_website/blog-le_-wei-xue-xi-zhi-neng-fu-zhu-yue-du.html",
             "url": "https://fox88-tw.github.io/portfolio_website/blog-le_-wei-xue-xi-zhi-neng-fu-zhu-yue-du.html",
             "title": "Blog樂_微學習智能輔助閱讀",
-            "summary": "Blog樂 _ LineBot使用情境 Demo實際體驗 Blog樂 LineBot 20201211_TibaMe AI技術應用工程師班 發表 ( 24:18~31:15 由我介紹負責開發的「摘要」功能 )",
-            "content_html": "<figure>Blog樂 _ LineBot使用情境 Demo<video loading=\"lazy\" width=\"720\" height=\"360\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://drive.google.com/file/d/14k8EjH_Rok3icmpyP4VXQSHqj5IDvar6/view?usp=sharing\" /></video></figure>\n<figure class=\"post__image\">實際體驗 Blog樂 LineBot<br><img loading=\"lazy\"  src=\"https://fox88-tw.github.io/portfolio_website/media/posts/1/image-1-6.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xs.png 300w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-sm.png 480w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-md.png 768w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-lg.png 1024w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xl.png 1360w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-2xl.png 1600w\"  alt=\"\" width=\"287\" height=\"287\"></figure>\n<p>20201211_TibaMe AI技術應用工程師班 發表 <br>( 24:18~31:15 由我介紹負責開發的「摘要」功能 )<video loading=\"lazy\" width=\"720\" height=\"360\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://drive.google.com/file/d/1dpie9AncXKuBvPauYBKnpw0TYrine16a/view?usp=sharing\" /></video></p>",
+            "summary": "由Medium官方不支援中文文章的演算作為切入點，利用A.I.將中文文章「分類」、「推薦」、並「摘出文章概要」來～令讀者能在有限的時間及精力內，找到欲閱讀之文章！Blog樂 _ LineBot使用情境 Demo實際體驗 Blog樂 LineBot 20201211_TibaMe AI技術應用工程師班 發表 ( 24:18~31:15 由我介紹負責開發的「摘要」功能 )",
+            "content_html": "<figure>由Medium官方不支援中文文章的演算作為切入點，利用A.I.將中文文章「分類」、「推薦」、並「摘出文章概要」來～令讀者能在有限的時間及精力內，找到欲閱讀之文章！</figure>\n<figure>Blog樂 _ LineBot使用情境 Demo<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"https://drive.google.com/file/d/14k8EjH_Rok3icmpyP4VXQSHqj5IDvar6/preview\"></iframe></div></figure>\n<figure class=\"post__image\">實際體驗 Blog樂 LineBot<br><img loading=\"lazy\"  src=\"https://fox88-tw.github.io/portfolio_website/media/posts/1/image-1-6.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xs.png 300w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-sm.png 480w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-md.png 768w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-lg.png 1024w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-xl.png 1360w ,https://fox88-tw.github.io/portfolio_website/media/posts/1/responsive/image-1-6-2xl.png 1600w\"  alt=\"\" width=\"287\" height=\"287\"></figure>\n<p>20201211_TibaMe AI技術應用工程師班 發表 <br>( 24:18~31:15 由我介紹負責開發的「摘要」功能 )<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"https://drive.google.com/file/d/1dpie9AncXKuBvPauYBKnpw0TYrine16a/preview\"></iframe></div>",
             "image": "https://fox88-tw.github.io/portfolio_website/media/posts/1/Blog-Le_-Wei-Xue-Xi-Zhi-Hui-Yue-Du-Zhu-Li_001.png",
             "author": {
                 "name": "FoxChen"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2020-12-14T09:31:00+08:00",
-            "date_modified": "2020-12-22T01:49:38+08:00"
+            "date_modified": "2020-12-22T03:31:23+08:00"
         }
     ]
 }
