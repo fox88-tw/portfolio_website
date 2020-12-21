@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FOXs",
     "description": "",
-    "home_page_url": "https://fox88-tw.github.com/portfolio_website",
-    "feed_url": "https://fox88-tw.github.com/portfolio_website/feed.json",
+    "home_page_url": "https://fox88-tw.github.io/portfolio_website",
+    "feed_url": "https://fox88-tw.github.io/portfolio_website/feed.json",
     "user_comment": "",
     "author": {
         "name": "FoxChen"
